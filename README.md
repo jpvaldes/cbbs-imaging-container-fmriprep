@@ -1,2 +1,5 @@
 # cbbs-imaging-container-fmriprep
-fmriprep singularity container for cbbs tools build from Docker image
+
+This repository contains a fmriprep singularity container converted from the official Docker [repository](docker://poldracklab/fmriprep:latest) image.
+
+The image was created using `singularity build`.
